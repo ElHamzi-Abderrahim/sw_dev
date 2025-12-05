@@ -1,3 +1,3 @@
 [submodule "conv_neural_net_python"]
 	path = conv_neural_net_python
-	url = github.com:ElHamzi-Abderrahim/conv_neural_net_python.git
+	url = https://github.com/ElHamzi-Abderrahim/conv_neural_net_python.git
